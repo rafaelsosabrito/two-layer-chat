@@ -1,5 +1,7 @@
 Title: Two-Layer Chat: Enhanced Conversational Filtering
 
+https://rafaelsosabrito.github.io/two-layer-chat/
+
 Introduction:
 The Two-Layer Chat is an innovative approach to online conversations that leverages a dual-layer architecture to optimize user interactions. Unlike conventional chat systems, this novel setup combines a preliminary layer for conversation filtering and a secondary layer for more in-depth interactions. The primary goal is to enhance the quality and relevance of conversations while minimizing unnecessary resource consumption.
 
